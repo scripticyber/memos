@@ -19,7 +19,7 @@
     "highlight.js": "^11.8.0",
     "i18next": "^21.10.0",
     "i18next-browser-languagedetector": "^7.1.0",
-    "katex": "^0.16.8",
+    "katex": "^0.16.21",
     "lodash-es": "^4.17.21",
     "long": "^5.2.3",
     "lucide-react": "^0.263.1",
