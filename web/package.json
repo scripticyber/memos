@@ -20,7 +20,7 @@
     "i18next": "^21.10.0",
     "i18next-browser-languagedetector": "^7.1.0",
     "katex": "^0.16.8",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "long": "^5.2.3",
     "lucide-react": "^0.263.1",
     "nice-grpc-web": "^3.3.1",
